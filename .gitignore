@@ -1,0 +1,6 @@
+credentials*
+token*
+api-secret*
+.venv
+secret*
+
